@@ -44,7 +44,6 @@
 
 ### 📫 Como Me Encontrar
 
-- [![Linkedin Badge](https://img.shields.io/badge/-MatheusAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusaraujopereira/)](https://www.linkedin.com/in/matheusaraujopereira/)
 - 📧 Email: **matheusaraujopereira@outlook.com.br**
 
 ---
