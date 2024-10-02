@@ -11,7 +11,7 @@
 - 🎓 Estudante de Engenharia de Computação na **Universidade Federal de Sergipe (UFS)**
 - 💻 Desenvolvedor Fullstack com foco em **Angular**, **Spring Boot**, e banco de dados como **Oracle**, **MySQL** e **PostgreSQL**
 - 📍 Moro em **Aracaju, Sergipe, Brasil**
-- 🔭 Atualmente, trabalho em projetos que envolvem **Java**, **TypeScript**, **HTML**, **CSS**, e **Bootstrap**
+- 🔭 Atualmente, trabalho em projetos que envolvem **Angular**, **Spring Boot** e **Bootstrap**
 - 📚 Sempre aprendendo e buscando por novos desafios em **tecnologias backend e frontend**
 
 ---
