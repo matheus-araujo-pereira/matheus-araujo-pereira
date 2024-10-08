@@ -32,22 +32,3 @@
 </div>
 
 ---
-
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusaraujopereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujopereira&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-### 📫 Como Me Encontrar
-
-- 📧 Email: **matheusaraujopereira@outlook.com.br**
-
----
-
-<p align="center">
-  🚀 <em>"A melhor forma de prever o futuro é inventá-lo."</em> 🚀
-</p>
