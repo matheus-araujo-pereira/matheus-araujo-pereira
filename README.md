@@ -1,57 +1,49 @@
-<h1 align="center">Olá, eu sou o Matheus Araujo Pereira! 👋</h1>
+# Matheus Araujo Pereira
 
-<p align="center">
-  <em>Cloud DevOps Engineer | Java • AWS • Linux</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/matheus-araujo-pereira">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/5579999984882">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:matharaupere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**Software Engineer | Java • Spring Boot • Angular • Linux**  
+Aracaju, SE – Brazil • [LinkedIn](https://www.linkedin.com/in/matheus-araujo-pereira) • [Email](mailto:matharaupere@gmail.com)
 
 ---
 
-### 🚀 Sobre Mim
+### 📌 Overview
 
-- 🎓 Mestrando em Ciência da Computação e graduando em Engenharia de Computação pela **Universidade Federal de Sergipe (UFS)**.
-- ☁️ Engenheiro focado em **Cloud Computing (AWS)**, automação de infraestrutura e administração de sistemas operacionais **Linux**.
-- ☕ Sólida bagagem em backend corporativo com **Java** e **Spring Boot**, aplicando Clean Architecture e padrões resilientes.
-- ⚙️ Atuação com esteiras de **CI/CD (Jenkins, Docker)**, governança de segurança via **AWS IAM** e qualidade de software com testes automatizados (**JUnit 5, JaCoCo**).
-- 📨 Implementação de arquiteturas orientadas a eventos e mensageria distribuída com **Apache Kafka** e **RabbitMQ**.
-- 📍 Baseado em **Aracaju, Sergipe, Brasil**.
+Engenheiro de Software com foco no ecossistema **Java corporativo e desenvolvimento Full Stack**. Experiência prática na sustentação e concepção de sistemas governamentais e tributários de grande escala na **Secretaria Municipal da Fazenda de Aracaju (SEMFAZ)**, atuando desde a modelagem até a entrega contínua.
+
+- 🏦 **Fintech & Setor Público:** Implementação e sustentação da liquidação em tempo real via **PIX** para a arrecadação tributária municipal (IPTU, ITBI, ISS, taxas).
+- 🔗 **Integrações Críticas:** Concepção de integrações e suítes de testes automatizados com múltiplos órgãos e plataformas (REDESIM, GOV.BR, SEFAZ, 1Doc, Correios).
+- ⚙️ **Qualidade & Arquitetura:** Desenvolvimento de microsserviços e rotinas assíncronas, esteiras CI/CD no Jenkins, cobertura de testes com TestNG/JUnit e JaCoCo, e relatórios fiscais com JasperSoft.
+- 🎓 **Formação Acadêmica:** Aluno do Mestrado em Ciência da Computação (M.Sc.) e graduando em Engenharia de Computação pela **Universidade Federal de Sergipe (UFS)**.
+- 🐧 **Ambiente Diário:** Usuário e desenvolvedor em ambiente **Linux (Fedora)**.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Core Tech Stack
 
-#### Cloud & DevOps
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</div>
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Backend** | Java (8, 17, 21), Spring Boot (2.x, 3.x), Spring Data JPA, RESTful APIs, JasperReports |
+| **Frontend** | Angular (7+ / Moderno), TypeScript, JavaScript, Bootstrap, HTML5/CSS3 |
+| **Bancos de Dados** | Oracle Database, PostgreSQL, MySQL (Modelagem relacional e query tuning) |
+| **Testes & Qualidade** | JUnit 5, TestNG, JaCoCo, Clean Architecture, SOLID |
+| **DevOps & Ferramentas** | Jenkins (CI/CD Pipelines), Git, GitHub, Docker básico |
+| **Sistemas & SO** | Linux (Fedora, Debian/Ubuntu, Red Hat/CentOS - gerenciamento via DNF e APT) |
 
-#### Backend & Mensageria
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-</div>
+---
 
-#### Bancos de Dados & Qualidade
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+### 💼 Trajetória Profissional
+
+- **SEMFAZ (Líder Locação / InovatecJP):** Engenheiro de Software Full Stack (2025 – Presente)
+  - Levantamento de regras de negócio de IPTU/ITBI, microsserviços assíncronos, testes de integração governamental e mentoria técnica de novos membros.
+- **SEMFAZ:** Estagiário de Desenvolvimento de Software (2023 – 2025)
+  - Desenvolvimento do módulo de arrecadação instantânea via PIX, refatoração de sistemas legados de agendamento e atendimento ao contribuinte.
+- **SOFTEAM (Empresa Júnior UFS):** Diretor de Tecnologia & Desenvolvedor (2022 – 2025)
+  - Treinamentos corporativos em Java/Spring e Angular, liderança técnica e desenvolvimento de soluções corporativas sob medida.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-araujo-pereira&show_icons=true&theme=slateobsidian&hide_border=true&count_private=true" alt="Matheus's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-araujo-pereira&layout=compact&theme=slateobsidian&hide_border=true" alt="Top Languages" height="150" />
 </div>
